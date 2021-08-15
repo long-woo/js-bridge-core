@@ -1,0 +1,24 @@
+{
+  "name": "js-bridge-core",
+  "version": "1.0.0",
+  "description": "一个支持 Promise 的 jsBridge 库",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/long-woo/js-bridge-core.git"
+  },
+  "keywords": [
+    "js",
+    "bridge",
+    "js-bridge"
+  ],
+  "author": "long.woo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/long-woo/js-bridge-core/issues"
+  },
+  "homepage": "https://github.com/long-woo/js-bridge-core#readme"
+}
